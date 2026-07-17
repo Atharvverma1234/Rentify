@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "HRMS",
+    "slug": "hrms",
+    "version": "1.0.0",
+    "scheme": "hrms",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
